@@ -7,7 +7,7 @@ All the assignments will be here, in the same repository.
 * Domain - Cloud Infra & Security
 
 
-
+# Week 1 Assignment - https://docs.google.com/document/d/1ontxOR6sfchZqvK_0CF08fi-T0VFs5SbCNW45rCegt8/edit?usp=sharing
 
 
 
